@@ -1,2 +1,0 @@
-# londonseo
-My awesome repository
